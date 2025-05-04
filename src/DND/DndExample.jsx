@@ -53,17 +53,6 @@ const DndExample = () => {
         items?.id === id ? { ...items, title: data } : items
       )
     )
-
-    // const colData = columns.map((items) => {
-
-    // if (items?.id !== id) return items;
-
-
-    // });
-
-
-
-
   }
 
 
